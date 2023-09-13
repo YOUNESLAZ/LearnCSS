@@ -1,0 +1,17 @@
+div{
+
+    border: 5px red solid;
+ 
+}
+P{
+    border: 5px green solid;
+    display: inline-block;
+    height: 100px;
+    border-radius: 3px;
+}
+a{
+    display:block
+}
+
+
+
